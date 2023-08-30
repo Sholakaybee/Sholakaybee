@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my first project which is Hbnb clone and it's been exciting so far
-- 🌱 I’m currently learning software engineering and my stack include Python, Mysql, Html and CSS, Node js
+ 🔭 I’m currently working on my first project which is Hbnb clone and it's been exciting so far
+ 🌱 I’m currently learning software engineering and my stack include Python, Mysql, Html and CSS, Node js
 - 👯 I’m looking to collaborate on any project you might have, please feel free to reach out to me
 - 🤔 I’m looking for help with getting a mentor, someone I can look up to and would help shape my Tech career
 - 💬 Ask me about 
